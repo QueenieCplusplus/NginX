@@ -23,6 +23,14 @@ LB 策略分為內建和擴充兩種，內建：
 
 (b) fair
 
+LB 相關設定：
+
+-1. 對特定 resource 實現 LB
+
+-2. 對不同 domain name 實現 lB
+
+-3. url redirect 實現 LB
+
 
 
 
